@@ -59,13 +59,5 @@ I design and implement secure cloud foundations for Microsoft ecosystems — fro
 ![ZeroTrust](https://img.shields.io/badge/Architecture-ZeroTrust-blueviolet)
 ![GraphAPI](https://img.shields.io/badge/API-MicrosoftGraph-7f5af0)
 
----
-
-### 📫 Connect
-- 🌐 [github.com/da13m](https://github.com/da13m)
-- 💼 [LinkedIn](https://linkedin.com/in/da13m) *(optional – update if you’d like to include your real URL)*
-- 🧩 Open to opportunities in **Security Architecture, Azure Governance, and Automation Engineering**
-
----
 
 > _“Secure design isn’t a product — it’s a mindset.”_
