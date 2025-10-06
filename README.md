@@ -1,5 +1,3 @@
-<!-- Banner -->
-![Header](https://raw.githubusercontent.com/da13m/da13m/main/docs/banner.png)
 
 # 👋 Hi, I'm Dale (`da13m`)
 🔐 **Microsoft Security Architect** | Azure | M365 | Zero Trust | Automation as Code  
